@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Starter-Pattern-Android</string>
+    <string name="title_activity_news_details">NewsDetailsActivity</string>
+    <string name="title_activity_news_list">NewsListActivity</string>
+</resources>
